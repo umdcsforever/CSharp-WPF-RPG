@@ -1,0 +1,6 @@
+C:\Users\Joonwon\source\repos\SOSCSRPG\Engine\bin\Debug\Engine.dll
+C:\Users\Joonwon\source\repos\SOSCSRPG\Engine\bin\Debug\Engine.pdb
+C:\Users\Joonwon\source\repos\SOSCSRPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Joonwon\source\repos\SOSCSRPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Joonwon\source\repos\SOSCSRPG\Engine\obj\Debug\Engine.dll
+C:\Users\Joonwon\source\repos\SOSCSRPG\Engine\obj\Debug\Engine.pdb

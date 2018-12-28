@@ -13,3 +13,6 @@ C:\Users\Joonwon\source\repos\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.GenerateReso
 C:\Users\Joonwon\source\repos\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
 C:\Users\Joonwon\source\repos\SOSCSRPG\WPFUI\obj\Debug\WPFUI.exe
 C:\Users\Joonwon\source\repos\SOSCSRPG\WPFUI\obj\Debug\WPFUI.pdb
+C:\Users\Joonwon\source\repos\SOSCSRPG\WPFUI\bin\Debug\Engine.dll
+C:\Users\Joonwon\source\repos\SOSCSRPG\WPFUI\bin\Debug\Engine.pdb
+C:\Users\Joonwon\source\repos\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.CopyComplete
