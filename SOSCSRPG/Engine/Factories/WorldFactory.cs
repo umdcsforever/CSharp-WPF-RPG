@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Engine.Models;
-
+ 
 namespace Engine.Factories
 {
     internal static class WorldFactory
@@ -14,8 +14,8 @@ namespace Engine.Factories
             World newWorld = new World();
 
             newWorld.AddLocation(-2, -1, "Farmer's Field",
-                 "There are rows of corn growing here, with giant rats hiding between them.",
-                 "/Engine;component/Images/Locations/FarmFields.png");
+                "There are rows of corn growing here, with giant rats hiding between them.",
+                "/Engine;component/Images/Locations/FarmFields.png");
 
             newWorld.AddLocation(-1, -1, "Farmer's House",
                 "This is the house of your neighbor, Farmer Ted.",
@@ -45,10 +45,12 @@ namespace Engine.Factories
                 "You see a small hut, with plants drying from the roof.",
                 "/Engine;component/Images/Locations/HerbalistsHut.png");
 
+            newWorld.LocationAt(0, 1).QuestsAvailableHere.Add(QuestFactory.GetQuestByID(1));
+
             newWorld.AddLocation(0, 2, "Herbalist's garden",
                 "There are many plants here, with snakes hiding behind them.",
                 "/Engine;component/Images/Locations/HerbalistsGarden.png");
-            
+
             return newWorld;
         }
     }
