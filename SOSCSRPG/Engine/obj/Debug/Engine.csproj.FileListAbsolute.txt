@@ -12,3 +12,10 @@ C:\Users\Joon\workspace\SOSCSRPG\Engine\obj\Debug\Engine.g.resources
 C:\Users\Joon\workspace\SOSCSRPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
 C:\Users\Joon\workspace\SOSCSRPG\Engine\obj\Debug\Engine.dll
 C:\Users\Joon\workspace\SOSCSRPG\Engine\obj\Debug\Engine.pdb
+C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\Engine\bin\Debug\Engine.dll
+C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\Engine\bin\Debug\Engine.pdb
+C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\Engine\obj\Debug\Engine.g.resources
+C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\Engine\obj\Debug\Engine.dll
+C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\Engine\obj\Debug\Engine.pdb
