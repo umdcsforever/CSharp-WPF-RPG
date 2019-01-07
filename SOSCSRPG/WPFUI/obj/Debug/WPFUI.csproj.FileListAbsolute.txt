@@ -43,7 +43,6 @@ C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCS
 C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\WPFUI\obj\Debug\MainWindow.g.cs
 C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\WPFUI\obj\Debug\App.g.cs
 C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
-C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
 C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\WPFUI\obj\Debug\MainWindow.baml
 C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI.g.resources
 C:\Users\Joonwon\Documents\Work_Documents\personal_projects\CSharp-WPF-RPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources

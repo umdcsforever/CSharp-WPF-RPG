@@ -14,10 +14,13 @@ namespace Engine.ViewModels
     {
         // backing variable for current location
         private Location _currentLocation;
+        private Monster _currentMonser;
 
         public World CurrentWorld { get; set; }
         public Player CurrentPlayer { get; set; }
-        public Location CurrentLocation {
+
+        public Location CurrentLocation
+        {
             get { return _currentLocation; }
             set
             {
@@ -30,6 +33,19 @@ namespace Engine.ViewModels
                 OnPropertyChanged(nameof(HasLocationToSouth));
 
                 GivePlayerQuestsAtLocation();
+                GetMonsterAtLocation();
+            }
+        }
+
+        public Monster CurrentMonster
+        {
+            get { return _currentMonser; }
+            set
+            {
+                _currentMonser = value;
+
+                OnPropertyChanged(nameof(CurrentMonster));
+                OnPropertyChanged(nameof(HasMonster));
             }
         }
 
@@ -52,6 +68,8 @@ namespace Engine.ViewModels
         {
             get { return CurrentWorld.LocationAt(CurrentLocation.XCoordinate + 1, CurrentLocation.YCoordinate) != null; }
         }
+
+        public bool HasMonster => CurrentMonster != null;
 
         public GameSession()
         {
@@ -103,6 +121,11 @@ namespace Engine.ViewModels
                     CurrentPlayer.Quests.Add(new QuestStatus(quest));
                 }
             }
+        }
+
+        private void GetMonsterAtLocation()
+        {
+            CurrentMonster = CurrentLocation.GetMonster();
         }
     }
 }
